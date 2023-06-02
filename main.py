@@ -42,6 +42,10 @@ def run():
     @bot.command()
     async def add(ctx, one: int , two: int):
         await ctx.send(one+two)
+
+    @bot.command()
+    async def joined(ctx, who : discord.Member):
+        await ctx.send(who)
          
 
     @bot.command()

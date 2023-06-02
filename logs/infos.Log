@@ -1,6 +1,1 @@
-INFO       - 2023-06-02 19:50:12,535 - client         :logging in using static token
-INFO       - 2023-06-02 19:50:13,549 - gateway        :Shard ID None has connected to Gateway (Session ID: b6b02e5080044a340d3762401bf6e6ed).
-ERROR      - 2023-06-02 19:50:31,597 - bot            :Ignoring exception in command None
-discord.ext.commands.errors.CommandNotFound: Command "chocies" is not found
-ERROR      - 2023-06-02 19:50:47,034 - bot            :Ignoring exception in command None
-discord.ext.commands.errors.CommandNotFound: Command "choicies" is not found
+INFO       - 2023-06-02 20:04:29,967 - client         :logging in using static token
